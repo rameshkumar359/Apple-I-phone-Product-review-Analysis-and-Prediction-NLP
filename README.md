@@ -14,3 +14,6 @@
 ![Screenshot (86)](https://github.com/rameshkumar359/Apple-I-phone-Product-review-Analysis-and-Prediction-NLP/assets/96288285/f21143b5-00d0-48d3-8271-01adcc67275a)
 ![Screenshot (87)](https://github.com/rameshkumar359/Apple-I-phone-Product-review-Analysis-and-Prediction-NLP/assets/96288285/6e573482-61c7-4dac-9181-c478aa512225)
 ![Screenshot (88)](https://github.com/rameshkumar359/Apple-I-phone-Product-review-Analysis-and-Prediction-NLP/assets/96288285/075c94d9-55c7-430f-b3f9-307fc3466ed9)
+![appleoutput](https://github.com/rameshkumar359/Apple-I-phone-Product-review-Analysis-and-Prediction-NLP/assets/96288285/82ad0626-c87b-44ef-989f-12745be271c4)
+![rocappoutput](https://github.com/rameshkumar359/Apple-I-phone-Product-review-Analysis-and-Prediction-NLP/assets/96288285/a1a1e43c-6a66-47d4-8b7b-5981d5446979)
+
